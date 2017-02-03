@@ -1,0 +1,26 @@
+E:\Applications\EmailSender\EmailSender\bin\Debug\EmailSender.exe
+E:\Applications\EmailSender\EmailSender\bin\Debug\EmailSender.pdb
+E:\Applications\EmailSender\EmailSender\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Applications\EmailSender\EmailSender\obj\x86\Debug\EmailSender.Form1.resources
+E:\Applications\EmailSender\EmailSender\obj\x86\Debug\EmailSender.Properties.Resources.resources
+E:\Applications\EmailSender\EmailSender\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Applications\EmailSender\EmailSender\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Applications\EmailSender\EmailSender\obj\x86\Debug\EmailSender.exe
+E:\Applications\EmailSender\EmailSender\obj\x86\Debug\EmailSender.pdb
+E:\Applications\Back Up\EmailSender\EmailSender\obj\x86\Debug\EmailSender.exe
+E:\Applications\Back Up\EmailSender\EmailSender\obj\x86\Debug\EmailSender.pdb
+E:\Applications\Back Up\EmailSender\EmailSender\bin\Debug\EmailSender.exe
+E:\Applications\Back Up\EmailSender\EmailSender\bin\Debug\EmailSender.pdb
+E:\Applications\Back Up\EmailSender\EmailSender\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Applications\Back Up\EmailSender\EmailSender\obj\x86\Debug\EmailSender.Form1.resources
+E:\Applications\Back Up\EmailSender\EmailSender\obj\x86\Debug\EmailSender.Properties.Resources.resources
+E:\Applications\Back Up\EmailSender\EmailSender\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Applications\Back Up\EmailSender\EmailSender\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\JIBRAN\Applications\Back Up\EmailSender\EmailSender\EmailSender\obj\x86\Debug\EmailSender.exe
+D:\JIBRAN\Applications\Back Up\EmailSender\EmailSender\EmailSender\obj\x86\Debug\EmailSender.pdb
+D:\JIBRAN\Applications\Back Up\EmailSender\EmailSender\EmailSender\bin\Debug\EmailSender.exe
+D:\JIBRAN\Applications\Back Up\EmailSender\EmailSender\EmailSender\bin\Debug\EmailSender.pdb
+D:\JIBRAN\Applications\Back Up\EmailSender\EmailSender\EmailSender\obj\x86\Debug\EmailSender.Form1.resources
+D:\JIBRAN\Applications\Back Up\EmailSender\EmailSender\EmailSender\obj\x86\Debug\EmailSender.Properties.Resources.resources
+D:\JIBRAN\Applications\Back Up\EmailSender\EmailSender\EmailSender\obj\x86\Debug\EmailSender.csprojResolveAssemblyReference.cache
+D:\JIBRAN\Applications\Back Up\EmailSender\EmailSender\EmailSender\obj\x86\Debug\EmailSender.csproj.GenerateResource.Cache
