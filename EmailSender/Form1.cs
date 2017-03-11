@@ -44,7 +44,7 @@ namespace EmailSender
             try
             {
                 MailMessage msg = new MailMessage();
-                msg.From = new MailAddress(_tbfrom.Text, "EasyNotes.Co.In");
+                msg.From = new MailAddress(_tbfrom.Text, "NAME");
                 //              msg.To.Add(new MailAddress(_tbto.Text));
                 try
                 {
@@ -59,7 +59,7 @@ namespace EmailSender
 
                 SmtpClient smtp = new SmtpClient();
                 smtp.Host = "smtp.gmail.com";
-                smtp.Credentials = new NetworkCredential(_tbfrom.Text, "9960065517");
+                smtp.Credentials = new NetworkCredential(_tbfrom.Text, "PASSWORD");
                 smtp.EnableSsl = true;
 
                 int listLength, seriel = 1;
@@ -87,7 +87,7 @@ namespace EmailSender
             try
             {
                 MailMessage msg = new MailMessage();
-                msg.From = new MailAddress("studentsitehelp@gmail.com", "EasyNotes.Co.In");
+                msg.From = new MailAddress("email@email.com", "NAME");
                 msg.To.Add(new MailAddress(_tbto.Text));
                 try
                 {
@@ -102,7 +102,7 @@ namespace EmailSender
 
                 SmtpClient smtp = new SmtpClient();
                 smtp.Host = "smtp.gmail.com";
-                smtp.Credentials = new NetworkCredential("studentsitehelp@gmail.com", "9960065517");
+                smtp.Credentials = new NetworkCredential("email@email.com", "PASSWORD");
                 smtp.EnableSsl = true;
 
                 smtp.Send(msg);
